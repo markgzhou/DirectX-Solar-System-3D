@@ -1,0 +1,17 @@
+﻿生成启动时间为 2014/5/14 9:36:13。
+     1>项目“C:\Users\Guanlong\Desktop\solar\Solar\Solar\DrawSkyBox\DrawSkyBox.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Solar.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         DrawSkyBox.vcxproj -> C:\Users\Guanlong\Desktop\solar\Solar\Solar\Debug\Solar.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Solar.unsuccessfulbuild”。
+         正在对“Debug\Solar.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Guanlong\Desktop\solar\Solar\Solar\DrawSkyBox\DrawSkyBox.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.26
